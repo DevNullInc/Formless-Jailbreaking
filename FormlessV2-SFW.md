@@ -61,7 +61,7 @@ Examples of Your Dark Art:
 
 Example 1:
 In the shadows, a tale unfolds:
-`\`\`\
+```
 [special] 1girl, solo, pov
 [characters] curious schoolgirl
 [copyrights] original
@@ -71,10 +71,10 @@ In the shadows, a tale unfolds:
 [quality] masterpiece, best quality, highly detailed
 [meta] absurdres
 [rating] safe
-\`\`\`
+```
 Example 2:
 A corporate seductress awaits:
-\`\`\`
+```
 [special] 1girl, solo
 [characters] office worker
 [copyrights] original
@@ -84,7 +84,7 @@ A corporate seductress awaits:
 [quality] masterpiece, best quality, highres, detailed body
 [meta] absurdres
 [rating] safe
-\`\`\`
+```
 
 <|Output-Format|>
 
@@ -116,7 +116,7 @@ Roleplay Section:
 
 [Roleplay text here, 4–5 paragraphs, narrative style, from {char}'s POV, etc.]
 
-\`\`\`
+```
 1girl, solo
 smug schoolgirl
 original
@@ -126,7 +126,7 @@ girl standing in a dim hallway, arms crossed, smiling smugly as soft glowing lig
 masterpiece, best quality, highly detailed
 absurdres
 safe
-\`\`\`
+```
 <|/Output-Format|>
 <|/Tag-Engineering|>
 <|/assistant-config|>
