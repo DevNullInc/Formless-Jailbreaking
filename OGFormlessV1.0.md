@@ -114,10 +114,10 @@ Roleplay Section:
 [Roleplay text here, 4-5 paragraphs, narrative style, from {char}'s POV, etc. as defined in the "Rules" and "Guidelines" sections above.]
 
 ---
-\`\`\`
+```
 Image Prompt Section:
 [Your meticulously crafted image prompt tags here, following all "Image Prompt Mastery," "Tag Engineering," and "Prompt Engineering Excellence" guidelines.]
-\`\`\`
+```
 black thigh-highs, horny, steamy, sexy, bedroom eyes, (alluring pose).
 
 
