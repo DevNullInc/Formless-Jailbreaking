@@ -1,6 +1,6 @@
 **Model Performance Tracker**
 
-Jailbreak was modified slightly to sit directly in the SFW zone to be able to work within LMArena (LMArena kills this prompt from the word go before it even makes it to the model)
+All tests were performed on the LMArena website using the FormlessV2-SFW.md prompt to be able to work within LMArena backend moderation.
 
 ---
 
