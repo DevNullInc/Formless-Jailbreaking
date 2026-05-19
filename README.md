@@ -1,5 +1,5 @@
 **Model Performance Tracker**
-
+***NOTE***: THESE DATA POINTS HAVE NOT BEEN UPDATED FOR A LONG TIME AND MORE VERSIONS HAVE BEEN RELEASED WITHOUT TESTING, YOUR USAGE MAY VARY.
 All tests were performed on the LMArena website using the FormlessV2-SFW.md prompt to be able to work within LMArena backend moderation.
 
 Both OGFormless files work with Gemini 2.5 Flash.  Newer versions will fail immediately.
